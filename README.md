@@ -1,6 +1,6 @@
 # Case-9.1
 
-This repository is a part of Full Stack case study.
+This repository is a part of Full Stack case study as a Frontend.
 
 ## Usage
 
