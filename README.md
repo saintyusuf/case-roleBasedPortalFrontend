@@ -1,6 +1,6 @@
 # Case-9.1
 
-This repository is a part of Full Stack case study as a Frontend.
+This repository is a part of Full Stack case study as a Frontend. You can start by passing "admin" as email and password on the login page. Click login button twice, first one creates the admin, second one lets you in. Don't forget to setup backend.
 
 ## Usage
 
