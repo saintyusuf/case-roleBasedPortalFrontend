@@ -68,7 +68,7 @@
 
 ## About
 
-This is a case study to measure full stack coding skills. This is the frontend part of the project. The backend part can be found [here](https://github.com/saintyusuf/case-roleBasedPortalBackend).
+This is a case study to measure full stack coding skills. This is the frontend part of the project. The backend part can be found [here](https://github.com/saintyusuf/case-roleBasedPortal-backend).
 
 ## Stack
 
@@ -78,12 +78,12 @@ HTML, CSS, JS, TS, React.js, Redux Toolkit, Redux Persist, React Icons, React He
 
 Clone the repository
 ```bash 
-git clone https://github.com/saintyusuf/case-roleBasedPortalFrontend.git
+git clone https://github.com/saintyusuf/case-roleBasedPortal-frontend.git
 ```
 
 Change directory
 ```bash 
-cd case-roleBasedPortalFrontend
+cd case-roleBasedPortal-frontend
 ```
 
 Install dependencies
